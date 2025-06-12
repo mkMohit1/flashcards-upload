@@ -1,0 +1,19 @@
+Question,Answer
+"What are the key reasons to use Angular for web development?","The key reasons to use Angular for web development include:
+- Powerful and scalable component-based architecture
+- Robust dependency injection system for managing application dependencies
+- Efficient performance with features like change detection and server-side rendering
+- Comprehensive tooling and development ecosystem with the Angular CLI
+- Extensive community support and a vast ecosystem of libraries and tools"
+"How does Angular help with application scalability and maintainability?","Angular's modular design and component-based architecture make it well-suited for building scalable and maintainable web applications. The framework's features, such as dependency injection, modules, and services, help organize code and manage complexity as the application grows."
+"What are the benefits of using TypeScript with Angular?","Using TypeScript with Angular provides several benefits, including:
+- Improved code quality and maintainability through static typing
+- Better tooling support and IDE integration for enhanced developer productivity
+- Easier refactoring and easier to catch errors during development
+- Seamless integration with Angular's dependency injection and other features"
+"How does Angular's reactive programming model with RxJS improve development?","Angular's use of reactive programming with RxJS (Reactive Extensions for JavaScript) enables developers to handle asynchronous data streams more effectively. This improves application responsiveness, error handling, and overall code quality."
+"What are the enterprise-ready features of Angular?","Angular is well-suited for enterprise-level web development due to its enterprise-ready features, such as:
+- Comprehensive testing capabilities with unit, integration, and end-to-end testing
+- Robust security features, including protection against common web application vulnerabilities
+- Optimized performance with features like server-side rendering and ahead-of-time (AOT) compilation
+- Excellent tooling and development ecosystem, including the Angular CLI and a vast ecosystem of libraries"
