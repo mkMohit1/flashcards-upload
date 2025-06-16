@@ -1,0 +1,6 @@
+Question,Answer
+"What is Angular?","A TypeScript-based, open-source web application framework led by the Angular Team at Google. It's used for building dynamic, single-page applications (SPAs)."
+"What are Angular Components?","Reusable, self-contained building blocks that make up an Angular application's user interface.  Each component typically consists of an HTML template, a TypeScript class to handle logic, and CSS for styling."
+"What is Angular's Data Binding? Give an example.","A mechanism that allows automatic synchronization of data between the component's TypeScript code (the model) and the HTML template (the view).  An example is `{{ myVariable }}`, which uses interpolation to display the value of `myVariable` in the template."
+"What are Angular Modules (NgModules)?","Containers for a cohesive block of code dedicated to an application domain, a workflow, or a closely related set of capabilities. NgModules help organize an Angular application into functional blocks, making it more manageable and maintainable."
+"What is Dependency Injection (DI) in Angular?","A design pattern where a component or service receives its dependencies from an external source (the Angular injector) rather than creating them itself. This promotes loose coupling, testability, and reusability."
