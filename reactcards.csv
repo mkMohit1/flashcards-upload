@@ -1,0 +1,14 @@
+Question,Answer
+"What is React?","A JavaScript library for building user interfaces (UIs), especially for single-page applications where content is dynamically updated. It focuses on the view layer.
+
+**Flashcard 2:**"
+"What are components in React?","Reusable, independent building blocks of a UI.  They accept data (props) and return React elements describing what should appear on the screen.  Think of them as custom HTML elements.
+
+**Flashcard 3:**"
+"What is JSX?","A syntax extension to JavaScript that lets you write HTML-like code within your JavaScript.  It gets transformed to regular JavaScript function calls that create React elements.
+
+**Flashcard 4:**"
+"What are props in React?","Properties passed from a parent component to a child component. They are read-only from the child's perspective and are used to configure and control the child component's behavior or appearance.
+
+**Flashcard 5:**"
+"What is state in React?","Data that is managed within a component.  When state changes, the component re-renders, updating the UI. Unlike props, state is mutable and controlled by the component itself."
