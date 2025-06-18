@@ -1,0 +1,14 @@
+Question,Answer
+"What is type narrowing in TypeScript?","Type narrowing is the process of refining a variable's type from a broader type to a more specific one within a TypeScript program."
+"How is type narrowing achieved in TypeScript?","Type narrowing is often achieved through runtime checks or control flow analysis."
+"What is the role of `typeof` in type narrowing?","The `typeof` operator is used to perform runtime checks that help TypeScript narrow the type of a variable.
+
+### Topic: Type Guards"
+"What is a type guard?","A type guard is a runtime check or expression that guarantees a variable is of a specific type."
+"How do type guards help TypeScript?","Type guards allow TypeScript to safely narrow the types of variables based on runtime information."
+"Why is safe type narrowing important?","Safe type narrowing prevents unexpected errors and ensures that operations are performed on values of the expected types.
+
+### Topic: `typeof` Type Guards"
+"What are the valid string results of the `typeof` operator in TypeScript?","The valid string results of the `typeof` operator are ""string"", ""number"", ""bigint"", ""boolean"", ""symbol"", ""undefined"", ""object"", and ""function""."
+"How can the `typeof` operator be used as a type guard?","By checking the `typeof` a variable against one of the valid string results, you can create a type guard that narrows the variable's type within a conditional block."
+"Give an example of using `typeof` as a type guard.","The code uses `typeof value === ""string""` as a type guard. Inside the `if` block, TypeScript knows `value` is a string, and in the `else` block, it knows `value` is a number."
